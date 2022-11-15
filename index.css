@@ -1,0 +1,4 @@
+#imgBox{
+  background: url('./img/pokemon-pikachu.jpeg') no-repeat center;
+  background-size: cover;
+}
